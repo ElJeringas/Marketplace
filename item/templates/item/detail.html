@@ -17,9 +17,17 @@
             {{item.description}}
         </p>
         {%endif%}
-        <div>
+        
+        {% if request.user == item.created_by %}
+            <div class="mt-6 p-6 bg-white rounded-xl">
+                <p class="mb-6">This is your item</p>
+                <a href="{% url 'item:edit' item.id %}"class="incline-block mr-6 mt-6 mp-6 px-6 py-3 text-lg font-semibold bg-yellow-500 text-white rounded-xl">Edit</a>
+                <a href="{% url 'item:delete' item.id %}" class="incline-block mt-6 px-6 py-3 text-lg font-semibold bg-red-500 text-white rounded-xl">Delete</a>
+            </div>
+        {%else%}
             <a href="#" class="incline-block mt-12 px-6 py-1 text-lg font-semibold bg-teal-500 text-white rounded-xl hoover:bg-teal-700">Contact seller</a>
-        </div>
+        {%endif%}
+
     </div>
 </div>
 
