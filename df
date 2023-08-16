@@ -1,0 +1,35 @@
+[33mcommit 2c6daf27df5d7aa477258edc0c52e2c04e460bd4[m[33m ([m[1;36mHEAD -> [m[1;32mdashboard[m[33m, [m[1;32mconversation[m[33m)[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Wed Aug 16 10:49:11 2023 -0500
+
+    adding clear and filter options in browse
+
+[33mcommit b02f3c9ef92a92a36b8ed7a9d9cdd888c0eca5f2[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Tue Aug 15 20:25:08 2023 -0500
+
+    browse page
+
+[33mcommit cfa9b0f303c9d77b383cc7245e2c5cfe3dbd1639[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Tue Aug 15 17:11:10 2023 -0500
+
+    adding\ dashboard and browse
+
+[33mcommit f787f03a020c8cda8d276e0b00f6df70d7a4a05f[m[33m ([m[1;32mLogin[m[33m)[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Mon Aug 14 14:18:46 2023 -0500
+
+    item creations, Loigin
+
+[33mcommit 981b78dc2476f31a0a959e24ccce9f3be6f97da9[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Sat Aug 12 15:21:57 2023 -0500
+
+    Adding Login and Signup functionality
+
+[33mcommit cd9aab27ef7be71e985c30c2960a09ea53063448[m[33m ([m[1;32mmaster[m[33m)[m
+Author: ElJeringas <santiagojss32@gmail.com>
+Date:   Fri Aug 11 15:00:55 2023 -0500
+
+    MarketPlace
